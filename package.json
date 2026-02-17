@@ -1,0 +1,29 @@
+{
+  "name": "reset",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "gateway/*",
+    "packages/*",
+    "services/*"
+  ],
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fullgamer494/reset.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fullgamer494/reset/issues"
+  },
+  "homepage": "https://github.com/Fullgamer494/reset#readme"
+}
